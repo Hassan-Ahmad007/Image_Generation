@@ -1,4 +1,3 @@
-```markdown
 # 🌌 Visionary AI Studio
 
 A professional-grade AI image generation web application built with **Gradio** and powered by the **FLUX.1-schnell** model. This studio allows users to create stunning visuals using natural language prompts and curated art styles.
